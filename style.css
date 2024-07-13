@@ -3,8 +3,8 @@
 }
 
 #controls {
-    margin: 0 auto;
-    width: 40%;
+    margin: auto;
+    width: 35%;
 }
 
 .square {
@@ -23,7 +23,16 @@
 
 #gameboard {
     height: 500px;
-    width: 60%;
-    margin: auto;
+    width: 50%;
+    margin-left: 550px;
     
+}
+
+#message {
+    text-align: center;
+    margin-top: 20px;
+}
+
+h1 {
+    text-align: center;
 }
